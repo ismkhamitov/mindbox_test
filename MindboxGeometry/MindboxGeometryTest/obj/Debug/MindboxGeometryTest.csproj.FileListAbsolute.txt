@@ -1,0 +1,9 @@
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\bin\Debug\MindboxGeometryTest.dll
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\bin\Debug\MindboxGeometryTest.pdb
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\bin\Debug\nunit.framework.dll
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\bin\Debug\nunit.framework.xml
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\obj\Debug\MindboxGeometryTest.csprojResolveAssemblyReference.cache
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\obj\Debug\MindboxGeometryTest.dll
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\obj\Debug\MindboxGeometryTest.pdb
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\bin\Debug\MindboxGeometry.dll
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometryTest\bin\Debug\MindboxGeometry.pdb

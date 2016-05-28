@@ -1,0 +1,5 @@
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometry\bin\Debug\MindboxGeometry.dll
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometry\bin\Debug\MindboxGeometry.pdb
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometry\obj\Debug\MindboxGeometry.csprojResolveAssemblyReference.cache
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometry\obj\Debug\MindboxGeometry.dll
+c:\users\ismail\documents\visual studio 2013\Projects\MindboxGeometry\MindboxGeometry\obj\Debug\MindboxGeometry.pdb
